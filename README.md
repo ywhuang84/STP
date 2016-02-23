@@ -1,2 +1,2 @@
 # STP
-for test
+for test only
